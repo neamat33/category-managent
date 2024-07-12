@@ -29,7 +29,7 @@ Please follow carefully the installation and use of this web framework of the Ca
 6. php artisan serve
 
 ```
-Finally start the application as usual. Add `/admin` to your localhost url to access the login page e.g if your localhost is `http://127.0.0.1` then the login will be `http://127.0.0.1/admin` 
+Finally start the application as usual. to your localhost url to access the login page e.g if your localhost is `http://127.0.0.1`
 
 
 ```
