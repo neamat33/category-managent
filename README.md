@@ -21,7 +21,7 @@ To access the Category & Subcategory Management application, you must first log 
 Please follow carefully the installation and use of this web framework of the Category & Sub Categiry Management system for better utilisation of it. Do not skip any stage.
 
 ```bash
-1. git clone https://github.com/neamat33/category-managent).git
+1. git clone https://github.com/neamat33/category-managent.git
 2. composer update
 3. copy .env.example .env and set DB Credentials
 4. php artisan key:generate
