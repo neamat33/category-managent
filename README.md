@@ -31,8 +31,7 @@ Please follow carefully the installation and use of this web framework of the Ca
 ```
 Finally start the application as usual. Add `/admin` to your localhost url to access the login page e.g if your localhost is `http://127.0.0.1` then the login will be `http://127.0.0.1/admin` 
 
-```bash
-Set up email notifications using [Mailtrap](https://mailtrap.io). Copy the mail credentials for your Laravel app from Mailtrap and update the corresponding settings in your `.env` file.
+
 ```
 
 
